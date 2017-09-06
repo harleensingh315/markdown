@@ -26,5 +26,5 @@ console.table(colleges);
 ```
 
 The output would be:
-![screenshot of console.table](/images/consoleTable.JPG)
+![screenshot of console.table](http://avillaruz.computerstudi.es/comp2112/images/consoleTable.JPG)
 
