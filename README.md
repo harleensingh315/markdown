@@ -1,3 +1,16 @@
+
+# How to Create a README.md using Markdown
+1. New repository
+1. Type repository name
+1. Check checkbox "Initialize this repository with a README"
+1. To edit the readme.md file, click README.md
+1. Click the pencil icon 
+1. Type in your text using GitHub Flavored Markdown.  
+* Refer to: [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+
+
 # Comp 2112 - Lab1
 ## Showing how console.table works
 
@@ -13,7 +26,5 @@ console.table(colleges);
 ```
 
 The output would be:
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+![screenshot of console.table](/images/consoleTable.JPG)
+
