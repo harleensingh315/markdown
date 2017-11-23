@@ -7,6 +7,7 @@
 1. Click the pencil icon 
 1. Type in your text using GitHub Flavored Markdown.  
 * Refer to: [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+* As an example at how I typed this very document you're reading now, see https://raw.githubusercontent.com/avcoder/markdown/master/README.md
 
 
 
