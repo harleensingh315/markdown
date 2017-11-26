@@ -1,0 +1,8 @@
+const lab1 = [
+   {'college' : 'Georgian', 'city' : 'Barrie', 'population' : 10000 },
+   {'college' : 'Seneca', 'city' : 'Toronto', 'population' : 12000 },
+   {'college' : 'George Brown', 'city' : 'Toronto', 'population' : 15000 }   
+];
+
+console.table(lab1);
+
